@@ -9,7 +9,7 @@ This project implements a plain data manager in Python 3, where
    - moderators can edit data from files 
    - admins can create and delete data nodes
    - superadmins can create users
- - files are saved in /var/data (go f**k yourself, windows suckers)
+ - files are saved in /var/data (no windows support)
 
 ### Control questions
 
