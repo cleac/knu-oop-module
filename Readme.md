@@ -22,7 +22,7 @@ This project implements a plain data manager in Python 3, where
 
 2. Which design patterns were used in the project?
 
-        Object oriented: Singleton, Facade, 
+        Object oriented: Singleton, Facade
         Functional: decorator, context call (file interactions using with operator of Python)
 
 3. Which patterns would be used if another programming language would be used?
@@ -32,6 +32,7 @@ This project implements a plain data manager in Python 3, where
 ___
 
 The MIT License (MIT)
+
 Copyright (c) 2016 Alexander Nesterenko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
